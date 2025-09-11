@@ -43,6 +43,6 @@ Microsoft Excel (part of Microsoft 365 / Office 365): The fundamental spreadshee
  6. screenshot/ dome
 show what the dashboard look like.
 Example:https:<img width="1424" height="796" alt="Image" src="https://github.com/user-attachments/assets/f2e5ddb8-3226-4b60-95f5-97f56efcf19a" />
-6. screenshot/ dome
+
 show what the dashboard look like.
 Example:https:<img width="1424" height="796" alt="Image" src="https://github.com/user-attachments/assets/f2e5ddb8-3226-4b60-95f5-97f56efcf19a" />
