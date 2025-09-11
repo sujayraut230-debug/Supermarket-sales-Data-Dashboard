@@ -20,7 +20,7 @@ Provides an overview of total tax amounts segmented by sales price and product q
 Helps detect discrepancies or unusual trends in tax collection.
 
 Order and Product Tracking:
-Breaks down sales by order, date, quantity, and unit price, making it easier to track which products or order batches contribute most to revenue.
+Breaks down sales by order, date, quantity, and unit price, making it easier to track which products or order batches contribute most to revenuc.
 Visualizes product movement and inventory trends for inventory management.
 Data-Driven Decision Making:
 Facilitates comparison between different sales categories, helping managers make data-informed decisions about pricing, product stocking, and tax planning.
@@ -42,6 +42,4 @@ Microsoft Excel (part of Microsoft 365 / Office 365): The fundamental spreadshee
    
  6. screenshot/ dome
 show what the dashboard look like.
-Example:https:<img width="1424" height="796" alt="Image" src="https://github.com/user-attachments/assets/f2e5ddb8-3226-4b60-95f5-97f56efcf19a" />
-
-Example:https:<img width="1424" height="796" alt="Image" src="https://github.com/user-attachments/assets/f2e5ddb8-3226-4b60-95f5-97f56efcf19a" />
+Example:https:<img width="1424" height="796" alt="Image" src="https://github.com/user-attachments/assets/e5d93c5c-f8e0-4927-bf03-5b7f2e49ef87" />
